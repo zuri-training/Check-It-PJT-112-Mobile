@@ -63,7 +63,8 @@ Kotlin
 * Sandy Goodnews (Mentor)
 #### Mobile Track
 * Ikem Frank(Team Lead)
-* Hadiza Idris#### Design Track
+* Hadiza Idris
+#### Design Track
 * Abuah Afamefuna(assistant Team Lead)
 * Mary Pedro
 * Obatobi Ayeni
