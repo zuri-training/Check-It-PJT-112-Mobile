@@ -43,3 +43,37 @@ The user can choose to purchase from any vendor of his/her choice, the app also 
 
 ## app Images
 [appImage](!appImage)
+
+## Programming Lamguage
+Kotlin
+### Packages
+##### API calls
+* Retrofit2
+* okHTTP3
+* GSON Converter
+
+##### Architecture
+* Model, View, View Model(MVVM)
+* Jetpack Navigation Component
+* Material Design
+
+
+## Contributors
+* Eniola Agbola (Project Manager)
+* Sandy Goodnews (Mentor)
+#### Mobile Track
+* Ikem Frank(Team Lead)
+* Hadiza Idris#### Design Track
+* Abuah Afamefuna(assistant Team Lead)
+* Mary Pedro
+* Obatobi Ayeni
+* Joshua Seun
+#### Front End Track
+* Emmanuel Nwabuodi
+* Ejembi Joshua
+* Obatobi Ayeni
+* Isiaka Abdulahi Akinkunmi
+#### Back End Track
+* Esa Obande
+* Ajiboye Oyerinde
+
