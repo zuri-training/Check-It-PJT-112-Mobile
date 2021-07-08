@@ -44,13 +44,14 @@ The user can choose to purchase from any vendor of his/her choice, the app also 
 ## app Images
 [appImage](!appImage)
 
-## Programming Lamguage
+## Programming Language
 Kotlin
 ### Packages
 ##### API calls
-* Retrofit2
-* okHTTP3
-* GSON Converter
+* Retrofit2(For making API calls)
+* okHTTP3 (For estabishing HTTP connection )
+* GSON Converter (For converting JSON file to android )
+* kotlin Couroutines ( For background thread)
 
 ##### Architecture
 * Model, View, View Model(MVVM)
@@ -70,7 +71,7 @@ Kotlin
 * Obatobi Ayeni
 * Joshua Seun
 #### Front End Track
-* Emmanuel Nwabuodi
+* Emmanuel Nwabuodafi
 * Ejembi Joshua
 * Obatobi Ayeni
 * Isiaka Abdulahi Akinkunmi
