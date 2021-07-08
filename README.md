@@ -28,11 +28,11 @@ The user can choose to purchase from any vendor of his/her choice, the app also 
 ## Opportunities 
 |Pains|Action |Gain|
 |:---  |:-----:|  ----:|
-|Trouble Checking the current price of products|* Search for product|Get and share prices|
-|                                              |* Compare prices  |                      |
-|Trouble purchasing the right product          |* Search for product|View options and purchase|     
-|                                              |* Compare prices|                             |     
-|                                              |* Purchase from vendor|                       |      
+|Trouble Checking the current price of products|Search for product|Get and share prices|
+|                                              |Compare prices  |                      |
+|Trouble purchasing the right product          |Search for product|View options and purchase|     
+|                                              |Compare prices|                             |     
+|                                              |Purchase from vendor|                       |      
 
 
 ## Challenges
