@@ -21,9 +21,9 @@ The user can choose to purchase from any vendor of his/her choice, the app also 
 |:---        |  :-----:    |   ----:|
 |Customer|* Search for product|Visit the selected vendors website|
 |         | * Find a product|                                    |
-|         * Compare prices with other vendors|                   |
-|          * Share comparison                |                   |
-|          * Select a vendor                 |                   |
+|         |* Compare prices with other vendors|                   |
+|         | * Share comparison                |                   |
+|         | * Select a vendor                 |                   |
 
 ## Opportunities 
 |Pains|Action |Gain
