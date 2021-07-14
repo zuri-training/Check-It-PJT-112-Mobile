@@ -70,6 +70,7 @@ Kotlin
 * Mary Pedro
 * Obatobi Ayeni
 * Joshua Seun
+* Haruna Adebayo
 #### Front End Track
 * Emmanuel Nwabuodafi
 * Ejembi Joshua
